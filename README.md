@@ -10,6 +10,10 @@ SyetemVerilog code to controll and read in samples from those adc's. Another par
 HDL code that interfaced with a FIFO-to-USB chip, that was used to send data over USB to a computer. 
 The code written to do these two things is split into two folders this repository. 
 
+There is also a folder for a UART module that was not included in the final project. The code in this folder was used to send data 
+using UART to a UART-to-USB chip that was going to be used in the project. That chip ended up not being fast enought, so we ended up using
+a FIFO-to-USB chip. The code in this folder works, but was not used in the project. 
+
 USB_oscope.sv is the top level module for this project. 
 
 project_final_report.pdf is the final report that was written for this project. This report has block diagrams for each part of the project.
