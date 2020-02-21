@@ -21,5 +21,5 @@ project_final_report.pdf is the final report that was written for this project. 
 
 This is a link to a video overview of the project, which has more block diagrams and gives a more indepth overview of the project
 
-https://drive.google.com/file/d/1r8u2nNMfyLop7pe8nbi3-C_ytLskglB_/view
+https://drive.google.com/file/d/1r8u2nNMfyLop7pe8nbi3-C_ytLskglB_/view?usp=sharing
 
